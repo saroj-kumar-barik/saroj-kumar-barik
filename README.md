@@ -44,10 +44,7 @@
 
 <br />
 <br />
-<h3>
-<details>
-  <summary>:zap: Github Stats</summary>
-  <img align="left" alt="saroj's Github Stats" src="https://github-readme-stats.vercel.app/api?username=saroj-kumar-barik)(https://github.com/saroj-kumar-barik/"/>
-</details>
-</h3>
+
+[![Saroj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saroj-kumar-barik)](https://github.com/anuraghazra/github-readme-stats)
+
 
