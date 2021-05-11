@@ -49,7 +49,7 @@
 ---
 [![Saroj's Top Used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saroj-kumar-barik&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ---
-[![Saroj's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=saroj-kumar-barik)](https://github.com/anuraghazra/github-readme-stats)
+[![Saroj's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bablusaroj)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
