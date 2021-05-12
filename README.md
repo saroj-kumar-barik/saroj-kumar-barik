@@ -47,7 +47,7 @@
 
 [![Saroj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saroj-kumar-barik&show_icons=true&theme=radical&bg_color=#f1f2b5)](https://github.com/anuraghazra/github-readme-stats) 
 ---
-[![Saroj's Top Used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saroj-kumar-barik&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Saroj's Top Used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saroj-kumar-barik&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 ---
 [![Saroj's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bablusaroj)](https://github.com/anuraghazra/github-readme-stats)
 
