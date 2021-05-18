@@ -43,7 +43,8 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer"><img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" /></a>
 
 <br />
-<br />
+<hr />
+<hr />
 
 [![Saroj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saroj-kumar-barik&show_icons=true&theme=radical&bg_color=#f1f2b5)](https://github.com/anuraghazra/github-readme-stats) 
 ---
